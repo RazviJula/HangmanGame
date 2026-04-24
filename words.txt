@@ -1,0 +1,16 @@
+programming;What you learn at computer science classes
+university;Where you go after high school to study
+algorithm;A step-by-step procedure to solve a problem
+pointer;Stores the memory address of another variable
+memory;Used by computers to store data temporarily
+bits;The smallest unit of digital information
+function;A block of code that performs a task
+variable;A name that stores data in a program
+loop;Repeats a block of code multiple times
+array;A collection of elements of the same type
+compiler;Transforms code into executable program
+syntax;The rules for writing code correctly
+debugging;Finding and fixing errors in code
+recursion;When a function calls itself
+stack;A data structure where the last element added is first out
+queue;A data structure where the first element added is first out
